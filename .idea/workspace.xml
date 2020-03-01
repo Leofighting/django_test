@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c6ed7e81-eac4-40d6-a234-027eb45212e9" name="默认" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhiliaoketang/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhiliaoketang/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhiliaoketang/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhiliaoketang/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +144,7 @@
       <workItem from="1581682629317" duration="821000" />
       <workItem from="1581948666366" duration="1065000" />
       <workItem from="1581988152320" duration="410000" />
-      <workItem from="1583052500605" duration="346000" />
+      <workItem from="1583052500605" duration="627000" />
     </task>
     <servers />
   </component>
